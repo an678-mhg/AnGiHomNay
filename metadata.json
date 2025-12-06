@@ -1,0 +1,7 @@
+{
+  "name": "Hôm Nay Ăn Gì?",
+  "description": "Ứng dụng gợi ý món ăn dựa trên thời tiết và vị trí hiện tại của bạn, sử dụng Google Gemini.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
